@@ -1,0 +1,16 @@
+IF=1
+ELSE=2
+TRUE=3
+ASSIGN=4
+STRING=5
+ID=6
+CHAR=7
+DIGITO=8
+PLACA=9
+WS=10
+NEWLINE=11
+COMMENT=12
+'if'=1
+'else'=2
+'true'=3
+'='=4
