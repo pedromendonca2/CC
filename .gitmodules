@@ -1,0 +1,5 @@
+[submodule "trabCC"]
+	path = trabCC
+	url = https://github.com/jhvlima/trabCC.git
+
+# git clone --recurse-submodules <https://github.com/pedromendonca2/CC.git>
